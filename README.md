@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdiep07
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning the beginning, just starting cs50
+- 🌱 I’m currently enrolled into the App Academy Part Time Online Course.
 - 💞️ I’m looking to collaborate on work in the future
 - 📫 How to reach me ...
 
